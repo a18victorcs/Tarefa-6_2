@@ -1,5 +1,8 @@
 # WordPress Hardening - Tarea 6.2
 ## Medidas de seguridad aplicadas:
+
+Enlace al repositorio: https://github.com/a18victorcs/Tarefa-6_2.git
+
 ### 1.- Cambio del prefijo de tablas de la base de datos
 - Se cambió el prefijo por defecto `wp_` por `seg_`
 - Se actualizó el archivo `wp-config.php`:
